@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF8">
+        <meta http-equiv="X-UA-compatible"content="Ie=edge">
+        <meta name ="viewport"content="width=device-width,initial=1.0">
+        <title>sale</title>
+        <link rel="stylesheet"href="style3.css">
+        <link rel="stylesheet"href="trr.html">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/brands.min.css" integrity="sha512-W/zrbCncQnky/EzL+/AYwTtosvrM+YG/V6piQLSe2HuKS6cmbw89kjYkp3tWFn1dkWV7L1ruvJyKbLz73Vlgfg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    </head>
+    <body>
+        <section >
+            <img src="https://img.freepik.com/free-photo/top-view-delicious-cutlets-with-onion-rings_140725-57413.jpg?t=st=1694793301~exp=1694793901~hmac=aa7f9054abe017679082bc45127679e33253200fb7e245cf03447be8682843fa"id="home-img">
+            <div class="header-nav">
+                <section bgcolor="black">
+                    <div class="header-nav">
+                        <h1>Logo</h1>
+                                <ul>
+                                 <li><a href="trr.html">Home</a></li>
+                                 <li><a href="menu.html">Menu</a></li>
+                                 
+                              
+                                 <li><a href="Food.html">Food</a></li>
+                                 <li><a href="index_contact.html">Contact</a></li>
+                                 
+                                </ul>
+                        
+                        </nav>
+                        
+                    </section>
+            </div>
+            <div class="home-nav">
+                <div class="home-left">
+                <h2>WELCOM TO SHOP WEBSITE ME</h2>
+                <h3>FOOD</h3>
+                <p>Far far aaway, behind the word mountains;</p>
+                <button>GO TO SERMONGS</button>
+                </div>
+
+            
+                
+            </div>
+        </section>
+        <section>
+          <div class="yd_j">
+            <img src="https://img.freepik.com/premium-vector/chinese-cuisine-dishes-with-discounts-sale-menu_87689-2933.jpg?size=626&ext=jpg&ga=GA1.1.92742544.1680975740&semt=sph">
+
+          </div>
+          <div class="yd_jy">
+            <img src="https://img.freepik.com/premium-photo/wok-noodles-with-beef-vegetables-sweet-sour-sauce-sichuan-pepper-wood-background-chinese-cuisine_207126-7025.jpg?size=626&ext=jpg&ga=GA1.1.92742544.1680975740&semt=sph">
+
+             <h1>We Have 20+ Years of Experience</h1>
+             <p>"Orem ipsum viverra feugiat. Pellen tesque libero ut justo, ultrices in ligula. Semper at tempufddfel. Lorem ipsum dolor sit amet consectetur adipisicing elit. Non quae, fugiat".</p>
+          </div>
+        </section>
+        <section>
+            <!-- Container for the image gallery -->
+<div class="container">
+
+    <!-- Full-width images with number text -->
+    <div class="mySlides">
+      <div class="numbertext">1 / 6</div>
+        <img src="img_woods_wide.jpg" style="width:100%">
+    </div>
+  
+    <div class="mySlides">
+      <div class="numbertext">2 / 6</div>
+        <img src="img_5terre_wide.jpg" style="width:100%">
+    </div>
+  
+    <div class="mySlides">
+      <div class="numbertext">3 / 6</div>
+        <img src="img_mountains_wide.jpg" style="width:100%">
+    </div>
+  
+    <div class="mySlides">
+      <div class="numbertext">4 / 6</div>
+        <img src="img_lights_wide.jpg" style="width:100%">
+    </div>
+  
+    <div class="mySlides">
+      <div class="numbertext">5 / 6</div>
+        <img src="img_nature_wide.jpg" style="width:100%">
+    </div>
+  
+    <div class="mySlides">
+      <div class="numbertext">6 / 6</div>
+        <img src="img_snow_wide.jpg" style="width:100%">
+    </div>
+  
+    <!-- Next and previous buttons -->
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  
+    <!-- Image text -->
+    <div class="caption-container">
+      <p id="caption"></p>
+    </div>
+  
+    <!-- Thumbnail images -->
+    <div class="row">
+      <div class="column">
+        <img class="demo cursor" src="https://img.freepik.com/free-photo/stir-fried-kale-spicy-crispy-pork-wooden-table-thai-food-concept_1150-26544.jpg?size=626&ext=jpg&ga=GA1.2.92742544.1680975740&semt=sph" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
+      </div>
+      <div class="column">
+        <img class="demo cursor" src="https://img.freepik.com/free-photo/stir-fried-kale-spicy-crispy-pork-wooden-table-thai-food-concept_1150-26544.jpg?size=626&ext=jpg&ga=GA1.2.92742544.1680975740&semt=sph" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
+      </div>
+      <div class="column">
+        <img class="demo cursor" src="https://img.freepik.com/free-photo/stir-fried-kale-spicy-crispy-pork-wooden-table-thai-food-concept_1150-26544.jpg?size=626&ext=jpg&ga=GA1.2.92742544.1680975740&semt=sph" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
+      </div>
+      <div class="column">
+        <img class="demo cursor" src="https://img.freepik.com/free-photo/stir-fried-kale-spicy-crispy-pork-wooden-table-thai-food-concept_1150-26544.jpg?size=626&ext=jpg&ga=GA1.2.92742544.1680975740&semt=sph" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
+      </div>
+      <div class="column">
+        <img class="demo cursor" src="https://img.freepik.com/free-photo/stir-fried-kale-spicy-crispy-pork-wooden-table-thai-food-concept_1150-26544.jpg?size=626&ext=jpg&ga=GA1.2.92742544.1680975740&semt=sph" style="width:100%" onclick="currentSlide(5)" alt="Nature and sunrise">
+      </div>
+      <div class="column">
+        <img class="demo cursor" src="https://img.freepik.com/free-photo/stir-fried-kale-spicy-crispy-pork-wooden-table-thai-food-concept_1150-26544.jpg?size=626&ext=jpg&ga=GA1.2.92742544.1680975740&semt=sph" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
+      </div>
+    </div>
+  </div>
+        </section>
+        <!--hgj-->
+        <section>
+            <div class="ki_P">
+                <h1>
+                    Our Popular Menu
+                </h1>
+            </div>
+           <div class="KKJ_O">
+            <h1></h1>
+            
+            
+            <img src="https://t4.ftcdn.net/jpg/02/44/61/19/240_F_244611927_yrh0ZIYwOGTDurVnCMAt7Cq8DR4sBkB0.jpg">
+             
+           </div>
+           <div class="KKJ_Oo">
+            <h1></h1>
+            
+            
+            <img src="https://as1.ftcdn.net/v2/jpg/01/33/61/72/1000_F_133617244_dWdivRXwoLVzowl1kn3iFP9JGcuNd8n6.jpg">
+             
+           </div>
+           <div class="KKJ_Ooo">
+            <h1></h1>
+            
+            
+            <img src="https://as1.ftcdn.net/v2/jpg/01/33/61/72/1000_F_133617244_dWdivRXwoLVzowl1kn3iFP9JGcuNd8n6.jpg">
+             
+           </div>
+           <div class="mmv_v">
+            <h2>Amus a ligula quam tesque et libero ut justo, ultrices in. Ut eu leo non. Duis sed et dolor amet.</h2>
+            <h2>Amus a ligula quam tesque et libero ut justo, ultrices in. Ut eu leo non. Duis sed et dolor amet.</h2>
+            <h2>Amus a ligula quam tesque et libero ut justo, ultrices in. Ut eu leo non. Duis sed et dolor amet.</h2>
+           </div>
+        </section>
+        <section>
+          <div class="qwr_o">
+            <img src="https://img.freepik.com/free-photo/top-view-various-delicious-tasty-fresh-food-wooden-white-surface_181624-47132.jpg?w=900&t=st=1695089301~exp=1695089901~hmac=5f0d178e1d07ff90f1827f951e8150151cb64e732b820185238b711d76d3caa1" alt="Notebook" style="width:100%;">
+            <div class="contentd">
+              <h1>Food_burger_pizza</h1>
+              <p>Lorem ipsum..</p>
+            </div>
+          </div>
+        </section>
+        <section>
+
+          <div class="icon_P">
+            
+            <h1>
+              <i class="fa fa-paper-plane" aria-hidden="true"></i>
+             
+            </h1>
+          </div>
+          
+
+        </section>
+        <section>
+          <div class="foood_I">
+            <h1>About Us</h1>
+            <h2>Vestibulum ante ipsum primis in faucibus orci luctus turpis sodales quis. Integer sit amet mattis quam.Vivamus a ligula quam tesque et libero ut justo ultrices in.</h2>
+
+            
+          </div>
+          <div class="href_O">
+            <ul>
+              <li><a href="trr.html">Home</a></li>
+              <li><a href="menu.html">Menu</a></li>
+              
+           
+              <li><a href="Food.html">Food</a></li>
+              <li><a href="index_contact.html">Contact</a></li>
+              
+             </ul>
+          </div>
+          <div class="KBGH_k">
+            
+            <h2>Join Now</h2>
+          </div>
+        </section>
+        <section>
+          <div class="Icon_U">
+            <p>
+            <i class="fa fa-bell" aria-hidden="true"></i>
+          </p>
+          </div>
+          
+        </section>
+        <section>
+          <div class="LKH">
+            <i class="fa fa-thumbs-up" aria-hidden="true"></i>
+          </div>
+          <div class="FOod_ter">
+           <img src="https://t4.ftcdn.net/jpg/02/80/99/85/240_F_280998537_gzNSGXdTJmlKjaCy75dtCcaXhit0E9gk.jpg">
+
+           
+          </div>
+          <div class="FOod_terr">
+            <img src="https://t4.ftcdn.net/jpg/02/80/99/85/240_F_280998537_gzNSGXdTJmlKjaCy75dtCcaXhit0E9gk.jpg">
+ 
+            
+           </div>
+           <div class="FOod_terrr">
+            <img src="https://t4.ftcdn.net/jpg/02/80/99/85/240_F_280998537_gzNSGXdTJmlKjaCy75dtCcaXhit0E9gk.jpg">
+ 
+            
+           </div>
+          
+           <div class="Ic">
+            <i class="fa fa-copyright" aria-hidden="true">2023 TI AMM All Rights Reserved | FOOD </i>
+          
+           </div>
+         
+           
+        </section>
+        <section>
+          <div class="sss_l">
+            <h1></h1>
+          </div>
+          
+        </section>
